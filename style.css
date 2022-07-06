@@ -66,3 +66,18 @@ header ul {
 .hero {
   padding: 0 200px;
 }
+
+.section1 {
+  display: flex;
+}
+
+.section1-left {
+  width: 400px;
+  margin-right: 50px;
+}
+
+.section1 img {
+  flex: 1;
+  padding: 48px 0;
+  /* width: 600px; */
+}
