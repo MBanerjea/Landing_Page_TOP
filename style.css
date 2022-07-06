@@ -39,7 +39,7 @@ button, .section4 {
   font-style: italic;
 }
 
-.section1 :nth-of-type(2), .section1 > img {
+.section1 :nth-of-type(1) {
   color: #e5e7eb;
 }
 
@@ -94,7 +94,7 @@ header ul {
   margin-right: 100px;
 }
 
-.section1 img {
+.section1 div {
   flex: 1;
   /* width: 600px; */
 }
@@ -181,4 +181,13 @@ button {
   border-color: white;
   /* padding: 8px 30px; */
   margin: auto 0;
+}
+
+.imageholder {
+  background-color: #717376;
+  /* border: 5px solid #e5e7eb; */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
