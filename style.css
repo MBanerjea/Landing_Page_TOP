@@ -120,6 +120,8 @@ header ul {
 
 .set {
   text-align: center;
+  font-size: 20px;
+  color: #717376;
 }
 
 .set > img {
