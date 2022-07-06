@@ -51,12 +51,14 @@ footer {
 
 header {
   display: flex;
-  /* justify-content: space-between; */
+  justify-content: space-between;
   align-items: center;
 }
 
 header ul {
   display: flex;
+  gap: 20px;
   /* flex: 1; */
+  /* margin-left: auto; */
   /* justify-content: space-between; */
 }
