@@ -30,8 +30,11 @@ button, .section4 {
 
 .section3 {
   background-color: #e5e7eb;
+  color: #1f2937;
+}
+
+.section3 :first-of-type {
   font-size: 36px;
   font-weight: light;
   font-style: italic;
-  color: #1f2937;
 }
