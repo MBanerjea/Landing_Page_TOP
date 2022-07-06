@@ -126,3 +126,8 @@ header ul {
 .section4-left {
   flex: 1;
 }
+
+footer {
+  padding: 40px 100px;
+  text-align: center;
+}
