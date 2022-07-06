@@ -95,4 +95,9 @@ header ul {
 
 .allsets {
   display: flex;
+  gap: 50px;
+}
+
+.set {
+  text-align: center;
 }
