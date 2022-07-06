@@ -17,3 +17,7 @@ header > p {
   font-size: 24px;
   color: #f9faf8;
 }
+
+button, .section4 {
+  background-color: #3882f6;
+}
