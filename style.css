@@ -139,8 +139,10 @@ header ul {
 
 .section4 {
   display: flex;
-  margin: 80px 180px;
+  margin: 100px 180px;
   padding: 50px 120px;
+  border-style: 1px solid;
+  border-radius: 15px;
 }
 
 .section4-left {
