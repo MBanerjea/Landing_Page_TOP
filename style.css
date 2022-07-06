@@ -62,3 +62,7 @@ header ul {
   /* margin-left: auto; */
   /* justify-content: space-between; */
 }
+
+.hero {
+  padding: 0 200px;
+}
