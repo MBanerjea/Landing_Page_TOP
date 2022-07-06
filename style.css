@@ -155,12 +155,16 @@ footer {
 }
 
 .section4-left :nth-of-type(1) {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 600;
+  color: #f9faf8;
+  margin-bottom: 5px;
 }
 
-.section-left :nth-of-type(2) {
-  font-size: 18px;
+.section4-left :nth-of-type(2) {
+  font-size: 20px;
+  color: #e5e7eb;
+  margin-top: 0;
 }
 
 button {
