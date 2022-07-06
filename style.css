@@ -46,3 +46,17 @@ button, .section4 {
 footer {
   color: #e5e7eb;
 }
+
+/* Major styling */
+
+header {
+  display: flex;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+header ul {
+  display: flex;
+  /* flex: 1; */
+  /* justify-content: space-between; */
+}
