@@ -85,3 +85,14 @@ header ul {
 .main-text {
   margin-top: 0;
 }
+
+.section2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 300px;
+}
+
+.allsets {
+  display: flex;
+}
