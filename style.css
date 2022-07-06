@@ -47,6 +47,10 @@ footer {
   color: #e5e7eb;
 }
 
+body {
+  margin: 0;
+}
+
 /* Major styling */
 
 header {
@@ -130,8 +134,4 @@ header ul {
 footer {
   padding: 40px 100px;
   text-align: center;
-}
-
-body {
-  margin: 0;
 }
