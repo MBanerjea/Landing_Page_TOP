@@ -42,3 +42,7 @@ button, .section4 {
 .section1 :nth-of-type(2), .section1 > img {
   color: #e5e7eb;
 }
+
+footer {
+  color: #e5e7eb;
+}
