@@ -163,10 +163,16 @@ footer {
   font-size: 18px;
 }
 
-.section1 button {
-  border: 1px solid #3882f6;
-  border-radius: 5px;
+button {
+  border: 2px solid #3882f6;
+  border-radius: 10px;
   padding: 8px 30px;
   font-size: 20px;
   color: #f9faf8;
+}
+
+.section4 button {
+  border-color: white;
+  /* padding: 8px 30px; */
+  margin: auto 0;
 }
