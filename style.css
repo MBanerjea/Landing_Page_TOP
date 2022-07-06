@@ -101,3 +101,8 @@ header ul {
 .set {
   text-align: center;
 }
+
+.set > img {
+  width: 169px;
+  height: 169px;
+}
